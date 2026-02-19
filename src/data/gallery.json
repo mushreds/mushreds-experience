@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?auto=format&fit=crop&q=80&w=1000",
+    "prompt": "Cyberpunk city in Goiânia, purple neon lights, cinematic 8k, hyper-realistic, digital art.",
+    "category": "art"
+  },
+  {
+    "id": "2",
+    "type": "video",
+    "src": "https://assets.mixkit.co/videos/preview/mixkit-digital-animation-of-a-network-of-interconnecting-lines-21443-large.mp4",
+    "prompt": "Deep learning neural network visualization, fluid purple streams, abstract high tech motion graphics.",
+    "category": "automation"
+  },
+  {
+    "id": "3",
+    "type": "image",
+    "src": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&q=80&w=1000",
+    "prompt": "Vanta black abstract organic shapes with violet glowing edges, futuristic design, 3d render.",
+    "category": "art"
+  },
+  {
+    "id": "4",
+    "type": "video",
+    "src": "https://assets.mixkit.co/videos/preview/mixkit-rotating-world-hologram-in-a-futuristic-room-21444-large.mp4",
+    "prompt": "Global data connection hologram, floating over a black sleek interface, minimalist technology.",
+    "category": "global"
+  }
+]
