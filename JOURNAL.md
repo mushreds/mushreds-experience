@@ -23,6 +23,8 @@ Este arquivo serve como o log histórico de longo prazo da nossa colaboração. 
 - **Lead Generation**: Fluxo em etapas (Input -> Processando -> Resultado -> Lead) para aumentar o engajamento antes do formulário.
 
 ### 🎯 Próximos Passos
+- [x] Inicializar repositório Git local e realizar commit inicial.
+- [x] Entregar comandos para vincular ao GitHub (mushreds/mushreds-experience).
 - [ ] Realizar deploy na Vercel para testar a experiência do QR Code em Goiânia.
 - [ ] Integrar o `leadService.ts` com um banco de dados real (Supabase ou PostgreSQL).
 - [ ] Realizar otimização final de mídia (WebM com compressão máxima).
